@@ -1,6 +1,14 @@
-# LearnLoot Repository
+<p align="center">
+  <img src="Images/LEARNING.png" alt="Learning Image">
+</p>
 
-Welcome to the LearnLoot repository! This repository is a curated collection of resources focusing on DevOps and developer roadmaps to guide your learning journey through the dynamic landscape of software development.
+<h1 align="center">
+  LearningLoot Repository
+</h1>
+
+<p align="center">
+  Welcome to the LearnLoot repository! This repository is a curated collection of resources focusing on DevOps and developer roadmaps to guide your learning journey through the dynamic landscape of software development.
+</p>
 
 ## Contents
 
