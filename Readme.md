@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/LEARNING.png" alt="Learning Image">
+  <img src="images/LEARNING.png" alt="Learning Image">
 </p>
 
 <h1 align="center">
